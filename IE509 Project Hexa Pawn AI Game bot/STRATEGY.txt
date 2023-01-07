@@ -1,0 +1,5 @@
+if the robot wins, replace all the beads and play again.
+If it loses, punish it by confiscating only the bead the reprsents its last move. 
+Replace the other beads and play again. If you should find an empty box (this rarely happens),
+it means the machine has no move that is not fatal and it resigns.
+In this case confiscate the bead of the preceding move

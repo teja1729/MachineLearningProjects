@@ -1,0 +1,6 @@
+aws deep racer : - https://student.deepracer.com/learn/85a3a216-703b-40c8-ad70-374767eba381
+Unity machine learning agents :- https://unity.com/products/machine-learning-agents
+15 Reinforcement learning projects :- https://www.projectpro.io/article/reinforcement-learning-projects-ideas-for-beginners-with-code/521
+deepracer parameters:-https://docs.aws.amazon.com/deepracer/latest/developerguide/deepracer-reward-function-input.html
+Hexapawn - http://cs.williams.edu/~freund/cs136-073/GardnerHexapawn.pdf
+youtube_video : https://www.youtube.com/watch?v=eSc_Hi9LZeg
